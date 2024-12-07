@@ -6,5 +6,5 @@
 
 
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/78a97163065537.5aa76fff8bb77.gif" width="1000" height="400" style="object-fit: cover;">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/78a97163065537.5aa76fff8bb77.gif" width="1000" height="500" style="object-fit: cover;">
 </p>
